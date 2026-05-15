@@ -8,11 +8,11 @@ language: '简体中文'
 
 # 起因
 
-因为在 [X.Org][https://www.x.org/wiki] 时期我还在用台式，
+因为在 [X.Org](https://www.x.org/wiki) 时期我还在用台式，
 那时候觉得纯键盘驱动的窗口管理器操作效率好像更高一点，
 当然也抱有觉得好玩和装逼的心态就玩了一段时间的窗口管理器。
-所以到了 [Wayland][https://wayland.freedesktop.org] 时期一开始用的也是窗口管理器，
-最开始是 [Sway][https://swaywm.org]。
+所以到了 [Wayland](https://wayland.freedesktop.org) 时期一开始用的也是窗口管理器，
+最开始是 [Sway](https://swaywm.org)。
 
 发现 Sway 发布周期长，输入法补丁合进主分支了也得等挺久才会发布，
 又懒得从 [AUR](https://aur.archlinux.org/packages/sway-git) 构建。

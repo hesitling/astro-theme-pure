@@ -158,7 +158,7 @@ export const integ: IntegrationUserConfig = {
   waline: {
     enable: false,
     // Server service link
-    server: 'https://astro-theme-pure-waline.arthals.ink/', // TODO: Modify adapt comment system
+    server: '', // TODO: Modify adapt comment system
     // Show meta info for comments
     showMeta: false,
     // Refer https://waline.js.org/en/guide/features/emoji.html
